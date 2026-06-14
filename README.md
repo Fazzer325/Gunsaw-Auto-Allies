@@ -1,6 +1,9 @@
 # Gunsaw-Auto-Allies
 BepInEx 5 mod for Gunsaw that adds configurable AI allies, formations, rescue, markers, and manual orders.
 
+Download .dll
+https://github.com/Fazzer325/Gunsaw-Auto-Allies/releases/tag/Mod
+
 This mod spawns configurable AI allies at level start and gives them follow, combat, formation, rescue, collision, marker, and manual order controls.
 
 Author
