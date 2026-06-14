@@ -34,4 +34,4 @@ This mod is not affiliated with the creators of Gunsaw, BepInEx, or Harmony.
 Redistribution
 Do not redistribute modified versions without clear credit to the original author.
 
-Copyright (c) 2026 Fazzer.
+Copyright (c) 2026 Fazzer / Fazzer325.
